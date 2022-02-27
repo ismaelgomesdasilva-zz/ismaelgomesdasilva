@@ -1,7 +1,6 @@
-### Olá, caro visitante.
-
-- 🔭 Atualmente em busca de uma oportunidade como Dev.Jr.
-- 🌱 Estou estudando React.
+### Olá, caro visitante.🤝
+Atualmente eu tenho conhecimento em: 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁, 𝗴𝗶𝘁, 𝗴𝗶𝘁𝗵𝘂𝗯 𝗲 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽. 
+E como estou em constante desenvolvimento o próximo passo será dominar o 𝗥𝗘𝗔𝗖𝗧.𝗝𝗦 𝗘 𝗥𝗘𝗔𝗖𝗧 𝗡𝗔𝗧𝗜𝗩𝗘. Pegue um café e vamos dá uma olhada no que ando codando? 👀👀
 
 <div align="center">
   <a href="https://github.com/ismaelgomesdasilva">
