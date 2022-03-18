@@ -1,29 +1,86 @@
-### Olá, caro visitante.🤝
-Atualmente eu tenho conhecimento em: 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁, 𝗴𝗶𝘁, 𝗴𝗶𝘁𝗵𝘂𝗯 𝗲 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽. 
-E como estou em constante desenvolvimento o próximo passo será dominar o 𝗥𝗘𝗔𝗖𝗧.𝗝𝗦 𝗘 𝗥𝗘𝗔𝗖𝗧 𝗡𝗔𝗧𝗜𝗩𝗘. Pegue um café e vamos dá uma olhada no que ando codando? 👀👀
 
-<div "display: inline_block">
-  <a href="https://github.com/ismaelgomesdasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelgomesdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgomesdasilva&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Sejam Bem-vindos</h1>
   
-  ##
-  
- <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="isma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="isma-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="isma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="isma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-</div>
-  
-##
-  
-  <div align="center"> 
-  <a href="https://www.instagram.com/projeta.leam/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ismaelgomesdasilva003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ismael-gomes-da-silva-a5a38b149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <h4 align="center">É um prazer conhece-lo, me chamo Ismael!</h4>  
+   <h5 align= "center">   Desenvolvedor Front-End  </h5>  
  
-  ![Snake animation](https://github.com/ismaelgomesdasilva/ismaelgomesdasilva/blob/output/github-contribution-grid-snake.svg)
+<h1 
+       align="center"> <img src="https://github.com/msmaiaa/msmaiaa/blob/main/cat.gif" width="60px">
+ <img src="https://github.com/msmaiaa/msmaiaa/blob/main/catBallon.gif" width="40px">
+
+</h1>
+
+ ### 👨🏿‍🦱  Sobre mim
+
+  
+ * 💻   Graduando em Sistema para Internet
+
+ * 🌱  Atualmente estou estudando React e Typescript
+<br/>
+
+### 📊  Metas para 2022:
+   * 📂  Construir meu portifolio
+   
+   * 🤝  Conseguir meu primeiro emprego como desenvolvedor
+    
+   * 📈  Iniciar um curso de ingles
+
+<br/>
+   
+
+                                                                                                                                                      
+  ## 🛠 &nbsp;Tecnologias:
+  
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)                                         
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+
+  <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">                                                                                                                                                      
+Social Links </h1>
+  
+<p align="center" style="background:yellow">
+<a href="https://github.com/ismaelgomesdasilva" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama" alt="github"/>  
+</a>
+<a href="https://www.linkedin.com/in/ismael-gomes-da-silva-a5a38b149/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/projeta.leam/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
  
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
