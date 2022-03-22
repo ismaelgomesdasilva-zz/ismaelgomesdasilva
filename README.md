@@ -1,22 +1,28 @@
+### Olá 👋
+ ##### "Obrigado por sua visita"
 
-  <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Sejam Bem-vindos</h1>
+
+
+<h1 align='center'>
+  Eu sou Ismael Gomes 👨‍💻
   
-  <h4 align="center">É um prazer conhece-lo, me chamo Ismael!</h4>  
-   <h5 align= "center">   Desenvolvedor Front-End  </h5>  
- 
-<h1 
-       align="center"> <img src="https://github.com/msmaiaa/msmaiaa/blob/main/cat.gif" width="60px">
- <img src="https://github.com/msmaiaa/msmaiaa/blob/main/catBallon.gif" width="40px">
-
 </h1>
 
- ### 👨🏿‍🦱  Sobre mim
 
-  
- * 💻   Graduando em Sistema para Internet
 
- * 🌱  Atualmente estou estudando React e Typescript
-<br/>
+<p align='center'>
+  Desenvolvedor Front-end
+</p>
+
+### 🛠 Sobre mim:
+<p>
+  <em>
+   Tenho 21 anos, sou recifense e estou em São Paulo para tentar a vida como um desenvolvedor.
+  </em>
+</p>
+
+ - 🌱 Atualmente eu estou aprendendo mais sobre React.js 
+ - 🚀 <em>Estudante de desenvolvimento fullstack pela DevClub</a>
 
 ### 📊  Metas para 2022:
    * 📂  Construir meu portifolio
@@ -26,38 +32,36 @@
    * 📈  Iniciar um curso de ingles
 
 <br/>
-   
 
-                                                                                                                                                      
-  ## 🛠 &nbsp;Tecnologias:
-  
+### ⚡ Tecnologias:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)                                         
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-
-  <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">                                                                                                                                                      
-Social Links </h1>
-  
-<p align="center" style="background:yellow">
-<a href="https://github.com/ismaelgomesdasilva" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama" alt="github"/>  
-</a>
-<a href="https://www.linkedin.com/in/ismael-gomes-da-silva-a5a38b149/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/projeta.leam/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+Estas são algumas das tecnologias e ferramentas com as quais trabalho:
  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react )](https://skillicons.dev)
+
+
+### 📈 My Stats
+|Minhas Estatística|Principais Linguagens |
+|------------------|-------------|
+|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=ismaelgomesdasilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgomesdasilva&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
+
+💬 Quer me encontrar?
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-gomes-da-silva-a5a38b149/)](https://www.linkedin.com/in/ismael-gomes-da-silva-a5a38b149/)
+
+:brain: <a name="id4"></a>*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
+
+
+
+
+
+
+
+
+
+
 
 
 
