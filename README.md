@@ -22,7 +22,7 @@
 </p>
 
  - 🌱 Atualmente eu estou aprendendo mais sobre React.js 
- - 🚀 <em>Estudante de desenvolvimento fullstack pela DevClub</a>
+ - 🚀 <em>Estudante de desenvolvimento front-end pela DevClub</a>
 
 ### 📊  Metas para 2022:
    * 📂  Construir meu portifolio
