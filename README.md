@@ -27,7 +27,7 @@
 ### 📊  Metas para 2022:
    * 📂  Construir meu portifolio
    
-   * 🤝  Conseguir meu primeiro emprego como desenvolvedor
+   * 🤝  Conseguir meu primeiro emprego como desenvolvedor✅
     
    * 📈  Iniciar um curso de ingles
 
@@ -37,7 +37,7 @@
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react )](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs )](https://skillicons.dev)
 
 
 ### 📈 My Stats
